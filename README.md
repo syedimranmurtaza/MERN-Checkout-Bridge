@@ -203,6 +203,4 @@ npm run dev
 
 ---
 
-If you want, I can also **add this as a README.md file inside the ZIP** so your dev can open it immediately after unzipping and follow along without needing to contact you.
-That way, the process will be foolproof.
 
