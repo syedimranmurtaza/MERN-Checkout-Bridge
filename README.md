@@ -1,4 +1,4 @@
-This plugin is build by: https://huzaifascripts.site/
+
 
 ## **MERN Checkout Bridge – Full Setup & Run Guide**
 
